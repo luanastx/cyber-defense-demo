@@ -10,10 +10,6 @@ Este projeto é um protótipo educativo que demonstra um pipeline simplificado p
 - Explicabilidade com SHAP
 - Notas de privacidade e ética
 
-Importante:
-- Este projeto é didático. Não use em produção sem auditoria, testes e controles de segurança.
-- Capturar tráfego em interfaces reais pode requerer privilégios de administrador e envolve dados sensíveis — prefira usar o gerador sintético `generate_synthetic.py` para testes.
-
 Requisitos
 - Python 3.8+
 - Recomenda instalar em um virtualenv
