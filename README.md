@@ -54,5 +54,4 @@ Privacidade e ética (resumo)
 - Logs de decisões e justificativas (XAI) para auditoria.
 - Mecanismos de revisão humana antes de ações automatizadas destrutivas.
 
-Licença: MIT (exemplo). Use com responsabilidade.
 ```
