@@ -2,7 +2,8 @@
 # Sistema de Defesa Cibernética — Exemplo Básico (educacional)
 
 - O projeto é um protótipo didático em Python que captura/gera fluxos de rede, transforma os dados,
-aplica regras rápidas, treina um classificador (CNN), treina um agente por reforço para decidir bloquear/permitir e gera explicações (XAI).
+aplica regras rápidas, treina um classificador (CNN), treina um agente por
+reforço para decidir bloquear/permitir e gera explicações (XAI).
 
 Tecnologias usadas
 - Python 3.8+ — linguagem principal.
